@@ -2,8 +2,10 @@
 
 A small, reproducible study comparing anomaly detectors on server-sensor data
 (Server Machine Dataset) and, later, payment data. Status: **Week 1-2 done**
-(data loader, metrics, z-score baselines). Isolation Forest, the autoencoder
+(data loader, metrics, z-score baselines). Isolation Forest, the autoencoder,
 and the experiments are added in later weeks.
+
+This repository is the GitHub project for the anomaly-detection-system study.
 
 ## Research questions
 
@@ -72,3 +74,4 @@ results/             generated tables and plots (not hand-edited)
 | 5 | Drift and few-label experiments | todo |
 | 6 | Metric-choice experiment, optional PaySim | todo |
 | 7-8 | Report and cleanup | todo |
+
